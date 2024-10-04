@@ -19,8 +19,8 @@ class Solution {
             return false;
         }
         target -= node.val;
-        if (node.left == null && node.right == null && target == 0) {
-            return true;
+        if (node.left == null && node.right == null) {
+            return target == 0;
         }
 
         return hasPathSum(node.left, target) || hasPathSum(node.right, target);
