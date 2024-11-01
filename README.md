@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/vay0013/leetcode2/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
