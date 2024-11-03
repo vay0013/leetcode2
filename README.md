@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/vay0013/leetcode2/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vay0013/leetcode2/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/vay0013/leetcode2/tree/master/2580-circular-sentence) |
 ## Dynamic Programming
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vay0013/leetcode2/tree/master/0002-add-two-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/vay0013/leetcode2/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
