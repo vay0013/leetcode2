@@ -3,8 +3,7 @@ class Solution {
       int result = 0;
       int windowState = 0; // how mach 0?
       int begin = 0;
-      int end;
-      for (end = 0; end < nums.length; end++) {
+      for (int end = 0; end < nums.length; end++) {
         if (nums[end] == 0) {
           windowState++;
         }
