@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/vay0013/leetcode2/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/vay0013/leetcode2/tree/master/0739-daily-temperatures) |
+| [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/vay0013/leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/vay0013/leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vay0013/leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vay0013/leetcode2/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vay0013/leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vay0013/leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
