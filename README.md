@@ -54,24 +54,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vay0013/leetcode2/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vay0013/leetcode2/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vay0013/leetcode2/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vay0013/leetcode2/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vay0013/leetcode2/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vay0013/leetcode2/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vay0013/leetcode2/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vay0013/leetcode2/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0543-diameter-of-binary-tree) |
 ## String
