@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vay0013/leetcode2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vay0013/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vay0013/leetcode2/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vay0013/leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vay0013/leetcode2/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vay0013/leetcode2/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/vay0013/leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Tree
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vay0013/leetcode2/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vay0013/leetcode2/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/vay0013/leetcode2/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
