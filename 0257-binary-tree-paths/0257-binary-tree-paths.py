@@ -10,11 +10,11 @@ class Solution:
         def dfs(node, path):
             if not node:
                 return
-            path += str(node.val)
+            path.append(str(node.val))
             if not node.left and not node.right:
-                result.append(path)
-                return
-            dfs(node.left, path+"->")
-            dfs(node.right, path+"->")
-        dfs(root, "")
+                result.append("->".join(path))
+            dfs(node.left, path)
+            dfs(node.right, path)
+            path.pop()
+        dfs(root, [])
         return result
