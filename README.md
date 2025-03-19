@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vay0013/leetcode2/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vay0013/leetcode2/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vay0013/leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vay0013/leetcode2/tree/master/0617-merge-two-binary-trees) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vay0013/leetcode2/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vay0013/leetcode2/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vay0013/leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vay0013/leetcode2/tree/master/0617-merge-two-binary-trees) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vay0013/leetcode2/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vay0013/leetcode2/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vay0013/leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vay0013/leetcode2/tree/master/0617-merge-two-binary-trees) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/vay0013/leetcode2/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/vay0013/leetcode2/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vay0013/leetcode2/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vay0013/leetcode2/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
