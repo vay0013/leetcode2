@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/vay0013/leetcode2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vay0013/leetcode2/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vay0013/leetcode2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vay0013/leetcode2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vay0013/leetcode2/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/vay0013/leetcode2/tree/master/1019-squares-of-a-sorted-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vay0013/leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vay0013/leetcode2/tree/master/0792-binary-search) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vay0013/leetcode2/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vay0013/leetcode2/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vay0013/leetcode2/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vay0013/leetcode2/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vay0013/leetcode2/tree/master/0002-add-two-numbers) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
