@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vay0013/leetcode2/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/vay0013/leetcode2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vay0013/leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vay0013/leetcode2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vay0013/leetcode2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vay0013/leetcode2/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/vay0013/leetcode2/tree/master/1019-squares-of-a-sorted-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vay0013/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/vay0013/leetcode2/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vay0013/leetcode2/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
