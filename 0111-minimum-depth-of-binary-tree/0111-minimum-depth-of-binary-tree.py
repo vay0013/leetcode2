@@ -19,4 +19,4 @@ class Solution:
             if node.right:
                 stack.append((node.right, depth + 1))
         return result
-        
+
