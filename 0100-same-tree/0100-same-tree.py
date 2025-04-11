@@ -8,17 +8,16 @@ class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         qu = deque([p, q])
         while qu:
-            size = len(qu) // 2
-            for _ in range(size):
-                p_node = qu.popleft()
-                q_node = qu.popleft()
-                if not p_node and not q_node:
+            lvl_size = len(qu)//2
+            for _ in range(lvl_size):
+                node1 = qu.popleft()
+                node2 = qu.popleft()
+                if not node1 and not node2:
                     continue
-                if not p_node or not q_node or p_node.val != q_node.val:
+                if not node1 or not node2 or node1.val != node2.val:
                     return False
-                qu.append(p_node.left)
-                qu.append(q_node.left)
-                qu.append(p_node.right)
-                qu.append(q_node.right)
+                qu.append(node1.left)
+                qu.append(node2.left)
+                qu.append(node1.right)
+                qu.append(node2.right)
         return True
-        
