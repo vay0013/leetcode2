@@ -7,18 +7,24 @@
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         def isSameTree(root1, root2):
-            if not root1 and not root2:
-                return True
-            if not root1 or not root2 or root1.val != root2.val:
-                return False
-            left = isSameTree(root1.left, root2.left)
-            right = isSameTree(root1.right, root2.right)
-            return left and right
-        if not root:
-            return False
-        if isSameTree(root, subRoot):
+            stack = [(root1, root2)]
+            while stack:
+                node1, node2 = stack.pop()
+                if not node1 and not node2:
+                    continue
+                if not node1 or not node2 or node1.val != node2.val:
+                    return False
+                stack.append((node1.left, node2.left))
+                stack.append((node1.right, node2.right))
             return True
-        left = self.isSubtree(root.left, subRoot)
-        right = self.isSubtree(root.right, subRoot)
-        return left or right
-        
+        stack = [root]
+        while stack:
+            node = stack.pop()
+            if node.val == subRoot.val:
+                if isSameTree(node, subRoot):
+                    return True
+            if node.left:
+                stack.append(node.left)
+            if node.right:
+                stack.append(node.right)
+        return False
