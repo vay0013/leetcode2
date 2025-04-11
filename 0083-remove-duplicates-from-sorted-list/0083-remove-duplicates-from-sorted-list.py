@@ -8,9 +8,8 @@ class Solution:
         dummy = ListNode(-999, head)
         cur = dummy
         while cur.next:
-            if cur.next.val == cur.val:
+            if cur.val == cur.next.val:
                 cur.next = cur.next.next
             else:
                 cur = cur.next
         return dummy.next
-        
