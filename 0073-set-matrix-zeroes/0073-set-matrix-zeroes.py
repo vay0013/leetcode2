@@ -9,9 +9,8 @@ class Solution:
                     q.append((i, j))
         while q:
             x, y = q.popleft()
-            for i in range(n):
-                matrix[i][y] = 0
             for i in range(m):
                 matrix[x][i] = 0
-    
+            for i in range(n):
+                matrix[i][y] = 0
         
