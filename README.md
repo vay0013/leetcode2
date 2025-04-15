@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vay0013/leetcode2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/vay0013/leetcode2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vay0013/leetcode2/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vay0013/leetcode2/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/vay0013/leetcode2/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/vay0013/leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vay0013/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/vay0013/leetcode2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vay0013/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/vay0013/leetcode2/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vay0013/leetcode2/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vay0013/leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
