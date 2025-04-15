@@ -2,11 +2,11 @@ class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
         result = []
         def bt(acc, start):
-            if start == len(s):
+            if len(acc) == len(s):
                 result.append(acc)
-            else:
-                if s[start].isalpha():
-                    bt(acc + s[start].swapcase(), start+1)
-                bt(acc + s[start], start+1)
+            for i in range(start, len(s)):
+                if s[i].isalpha():
+                    bt(acc + s[i].swapcase(), i+1)
+                bt(acc + s[i], i+1)
         bt("", 0)
         return result
