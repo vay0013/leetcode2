@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vay0013/leetcode2/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/vay0013/leetcode2/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/vay0013/leetcode2/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/vay0013/leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vay0013/leetcode2/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
+| [0768-partition-labels](https://github.com/vay0013/leetcode2/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/vay0013/leetcode2/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/vay0013/leetcode2/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/vay0013/leetcode2/tree/master/0812-rotate-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
+| [0768-partition-labels](https://github.com/vay0013/leetcode2/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/vay0013/leetcode2/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vay0013/leetcode2/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/vay0013/leetcode2/tree/master/0768-partition-labels) |
 ## Design
 |  |
 | ------- |
