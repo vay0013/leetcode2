@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/vay0013/leetcode2/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vay0013/leetcode2/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/vay0013/leetcode2/tree/master/2714-left-and-right-sum-differences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vay0013/leetcode2/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vay0013/leetcode2/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/vay0013/leetcode2/tree/master/0800-letter-case-permutation) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/vay0013/leetcode2/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
