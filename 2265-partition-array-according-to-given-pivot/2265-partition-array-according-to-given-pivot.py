@@ -10,4 +10,6 @@ class Solution:
                 equal.append(nums[i])
             else:
                 less.append(nums[i])
-        return less + equal + great
+        less.extend(equal)
+        less.extend(great)
+        return less
