@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/vay0013/leetcode2/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vay0013/leetcode2/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vay0013/leetcode2/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vay0013/leetcode2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/vay0013/leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vay0013/leetcode2/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/vay0013/leetcode2/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vay0013/leetcode2/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vay0013/leetcode2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vay0013/leetcode2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
