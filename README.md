@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/vay0013/leetcode2/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/vay0013/leetcode2/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vay0013/leetcode2/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2571-find-the-pivot-integer](https://github.com/vay0013/leetcode2/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/vay0013/leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vay0013/leetcode2/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vay0013/leetcode2/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2571-find-the-pivot-integer](https://github.com/vay0013/leetcode2/tree/master/2571-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
