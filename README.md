@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/vay0013/leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/vay0013/leetcode2/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vay0013/leetcode2/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/vay0013/leetcode2/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/vay0013/leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/vay0013/leetcode2/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vay0013/leetcode2/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vay0013/leetcode2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2571-find-the-pivot-integer](https://github.com/vay0013/leetcode2/tree/master/2571-find-the-pivot-integer) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/vay0013/leetcode2/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
