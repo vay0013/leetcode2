@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vay0013/leetcode2/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vay0013/leetcode2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vay0013/leetcode2/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vay0013/leetcode2/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vay0013/leetcode2/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vay0013/leetcode2/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/vay0013/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vay0013/leetcode2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
