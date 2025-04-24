@@ -1,14 +1,14 @@
 class Solution:
     def intervalIntersection(self, f: List[List[int]], s: List[List[int]]) -> List[List[int]]:
         res = []
-        i = j = 0
-        while i < len(f) and j < len(s):
-            start = max(f[i][0], s[j][0])
-            end = min(f[i][1], s[j][1])
+        p1, p2 = 0, 0
+        while p1 < len(f) and p2 < len(s):
+            start = max(f[p1][0], s[p2][0])
+            end = min(f[p1][1], s[p2][1])
             if start <= end:
                 res.append([start, end])
-            if f[i][1] < s[j][1]:
-                i += 1
+            if f[p1][1] < s[p2][1]:
+                p1 += 1
             else:
-                j += 1
+                p2 += 1
         return res
