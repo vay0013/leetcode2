@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vay0013/leetcode2/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/vay0013/leetcode2/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vay0013/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vay0013/leetcode2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vay0013/leetcode2/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/vay0013/leetcode2/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vay0013/leetcode2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vay0013/leetcode2/tree/master/0217-contains-duplicate) |
