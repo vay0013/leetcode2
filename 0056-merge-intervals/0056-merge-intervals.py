@@ -5,8 +5,8 @@ class Solution:
         for i in range(1, len(intervals)):
             cur = intervals[i]
             prev = res[-1]
-            if cur[0] <= prev[1]:
-                res[-1][1] = max(cur[1], prev[1])
+            if prev[1] >= cur[0]:
+                prev[1] = max(prev[1], cur[1])
             else:
                 res.append(cur)
         return res
