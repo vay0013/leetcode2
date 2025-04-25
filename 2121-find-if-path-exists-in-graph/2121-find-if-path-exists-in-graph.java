@@ -14,10 +14,11 @@ class Solution {
         seen.add(source);
         while (!q.isEmpty()) {
             int node = q.poll();
+            List<Integer> nbs = graph.get(node);
             if (node == destination) {
                 return true;
             }
-            for (int nb : graph.get(node)) {
+            for (int nb : nbs) {
                 if (!seen.contains(nb)) {
                     q.add(nb);
                     seen.add(nb);
