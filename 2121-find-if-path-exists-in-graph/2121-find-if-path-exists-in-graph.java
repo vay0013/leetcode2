@@ -7,13 +7,12 @@ class Solution {
             graph.computeIfAbsent(u, k -> new ArrayList<>()).add(v);
             graph.computeIfAbsent(v, k -> new ArrayList<>()).add(u);
         }
-
         Set<Integer> seen = new HashSet<>();
-        Queue<Integer> q = new LinkedList<>();
+        Stack<Integer> q = new Stack<>();
         q.add(source);
         seen.add(source);
         while (!q.isEmpty()) {
-            int node = q.poll();
+            int node = q.pop();
             List<Integer> nbs = graph.get(node);
             if (node == destination) {
                 return true;
