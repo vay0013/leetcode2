@@ -1,18 +1,18 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        Map<Integer, Set<Integer>> graph = new HashMap<>();
+        Map<Integer, List<Integer>> graph = new HashMap<>();
         for (int i = 0; i < n; i++) {
             for (int j = i; j < n; j++) {
                 if (isConnected[i][j] == 1) {
-                    graph.computeIfAbsent(i, k -> new HashSet<>()).add(j);
-                    graph.computeIfAbsent(j, k -> new HashSet<>()).add(i);
+                    graph.computeIfAbsent(i, k -> new ArrayList<>()).add(j);
+                    graph.computeIfAbsent(j, k -> new ArrayList<>()).add(i);
                 }
             }
         }
         int res = 0;
         Set<Integer> seen = new HashSet<>();
-        for(Map.Entry<Integer, Set<Integer>> g : graph.entrySet()) {
+        for(Map.Entry<Integer, List<Integer>> g : graph.entrySet()) {
             int node = g.getKey();
             if (!seen.contains(node)) {
                 res++;
