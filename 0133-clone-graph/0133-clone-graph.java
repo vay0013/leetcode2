@@ -23,16 +23,16 @@ class Solution {
         if (node == null) {
             return node;
         }
-        Map<Node, Node> seen = new HashMap<>();
         Queue<Node> q = new LinkedList<>();
+        Map<Node, Node> seen = new HashMap<>();
         seen.put(node, new Node(node.val));
-        q.add(node);
+        q.offer(node);
         while (!q.isEmpty()) {
             Node cur = q.poll();
             for (Node nb : cur.neighbors) {
                 if (!seen.containsKey(nb)) {
                     seen.put(nb, new Node(nb.val));
-                    q.add(nb);
+                    q.offer(nb);
                 }
                 seen.get(cur).neighbors.add(seen.get(nb));
             }
