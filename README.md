@@ -483,5 +483,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vay0013/leetcode2/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vay0013/leetcode2/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vay0013/leetcode2/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1916-find-center-of-star-graph](https://github.com/vay0013/leetcode2/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vay0013/leetcode2/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
