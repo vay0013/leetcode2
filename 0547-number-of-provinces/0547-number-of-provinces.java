@@ -3,22 +3,22 @@ class Solution {
         int n = isConnected.length;
         Map<Integer, Set<Integer>> graph = new HashMap<>();
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (isConnected[i][j] != 0) {
+            for (int j = i; j < n; j++) {
+                if (isConnected[i][j] == 1) {
                     graph.computeIfAbsent(i, k -> new HashSet<>()).add(j);
                     graph.computeIfAbsent(j, k -> new HashSet<>()).add(i);
                 }
             }
         }
-        Set<Integer> seen = new HashSet<>();
         int res = 0;
-        for (Map.Entry<Integer, Set<Integer>> g : graph.entrySet()) {
+        Set<Integer> seen = new HashSet<>();
+        for(Map.Entry<Integer, Set<Integer>> g : graph.entrySet()) {
             int node = g.getKey();
             if (!seen.contains(node)) {
                 res++;
-                seen.add(node);
                 Queue<Integer> q = new LinkedList<>();
                 q.add(node);
+                seen.add(node);
                 while (!q.isEmpty()) {
                     int v = q.poll();
                     for (int nb : graph.get(v)) {
