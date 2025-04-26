@@ -475,5 +475,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/vay0013/leetcode2/tree/master/0133-clone-graph) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vay0013/leetcode2/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vay0013/leetcode2/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
