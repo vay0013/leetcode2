@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/vay0013/leetcode2/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vay0013/leetcode2/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/vay0013/leetcode2/tree/master/0695-max-area-of-island) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vay0013/leetcode2/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/vay0013/leetcode2/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vay0013/leetcode2/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/vay0013/leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vay0013/leetcode2/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vay0013/leetcode2/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vay0013/leetcode2/tree/master/0647-palindromic-substrings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vay0013/leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vay0013/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vay0013/leetcode2/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/vay0013/leetcode2/tree/master/0695-max-area-of-island) |
 | [1677-matrix-diagonal-sum](https://github.com/vay0013/leetcode2/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vay0013/leetcode2/tree/master/2132-convert-1d-array-into-2d-array) |
