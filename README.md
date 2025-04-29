@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vay0013/leetcode2/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vay0013/leetcode2/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vay0013/leetcode2/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vay0013/leetcode2/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vay0013/leetcode2/tree/master/0073-set-matrix-zeroes) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vay0013/leetcode2/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/vay0013/leetcode2/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/vay0013/leetcode2/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vay0013/leetcode2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
