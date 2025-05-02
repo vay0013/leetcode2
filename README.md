@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/vay0013/leetcode2/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vay0013/leetcode2/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/vay0013/leetcode2/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/vay0013/leetcode2/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vay0013/leetcode2/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vay0013/leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vay0013/leetcode2/tree/master/0792-binary-search) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vay0013/leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/vay0013/leetcode2/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/vay0013/leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/vay0013/leetcode2/tree/master/1603-running-sum-of-1d-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/vay0013/leetcode2/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
