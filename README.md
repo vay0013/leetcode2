@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/vay0013/leetcode2/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vay0013/leetcode2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vay0013/leetcode2/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vay0013/leetcode2/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/vay0013/leetcode2/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vay0013/leetcode2/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vay0013/leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vay0013/leetcode2/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vay0013/leetcode2/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vay0013/leetcode2/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vay0013/leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/vay0013/leetcode2/tree/master/1755-defuse-the-bomb) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
