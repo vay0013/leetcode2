@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/vay0013/leetcode2/tree/master/1635-number-of-good-pairs) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/vay0013/leetcode2/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vay0013/leetcode2/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vay0013/leetcode2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vay0013/leetcode2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
+| [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
+| [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/vay0013/leetcode2/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vay0013/leetcode2/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vay0013/leetcode2/tree/master/2445-reachable-nodes-with-restrictions) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
