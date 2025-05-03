@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vay0013/leetcode2/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vay0013/leetcode2/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vay0013/leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/vay0013/leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vay0013/leetcode2/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/vay0013/leetcode2/tree/master/0841-shortest-distance-to-a-character) |
 | [0907-koko-eating-bananas](https://github.com/vay0013/leetcode2/tree/master/0907-koko-eating-bananas) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vay0013/leetcode2/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/vay0013/leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vay0013/leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
