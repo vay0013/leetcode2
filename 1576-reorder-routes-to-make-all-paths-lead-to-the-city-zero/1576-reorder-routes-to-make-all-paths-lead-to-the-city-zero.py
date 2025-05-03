@@ -4,17 +4,16 @@ class Solution:
         graph = defaultdict(list)
         for a, b in connections:
             og.add((a, b))
+
             graph[a].append(b)
             graph[b].append(a)
-        seen = {0}
-        q = deque([0])
+        seen = set()
+        seen.add(0)
         res = 0
-        while q:
-            v = q.popleft()
-            for n in graph[v]:
-                if n not in seen:
-                    if (v, n) in og:
-                        res += 1
-                    seen.add(n)
-                    q.append(n)
+        for v in range(n):
+            for nb in graph[v]:
+                if nb not in seen:
+                    seen.add(nb)
+                    if (v, nb) in og:
+                        res+=1
         return res
