@@ -11,13 +11,21 @@ class Solution {
         }
         Set<Integer> seen = new HashSet<>();
         int res = 0;
-        for (Map.Entry<Integer, Set<Integer>> v : graph.entrySet()) {
-            int node = v.getKey();
-            if (!seen.contains(node)) {
+        for (Map.Entry<Integer, Set<Integer>> con : graph.entrySet()) {
+            int v = con.getKey();
+            if (!seen.contains(v)) {
                 res++;
-                seen.add(node);
-                for (int nb : v.getValue()) {
-                    seen.add(nb);
+                Queue<Integer> q = new LinkedList<>();
+                seen.add(v);
+                q.add(v);
+                while (!q.isEmpty()) {
+                    int node = q.poll();
+                    for (int nb : graph.get(node)) {
+                        if (!seen.contains(nb)) {
+                            seen.add(nb);
+                            q.add(nb);
+                        }
+                    }
                 }
             }
         }
