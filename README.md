@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vay0013/leetcode2/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/vay0013/leetcode2/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/vay0013/leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vay0013/leetcode2/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/vay0013/leetcode2/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/vay0013/leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/vay0013/leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vay0013/leetcode2/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vay0013/leetcode2/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vay0013/leetcode2/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/vay0013/leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vay0013/leetcode2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/vay0013/leetcode2/tree/master/0747-min-cost-climbing-stairs) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vay0013/leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vay0013/leetcode2/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/vay0013/leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/vay0013/leetcode2/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/vay0013/leetcode2/tree/master/0768-partition-labels) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/vay0013/leetcode2/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
