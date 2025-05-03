@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vay0013/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vay0013/leetcode2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vay0013/leetcode2/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/vay0013/leetcode2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vay0013/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vay0013/leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vay0013/leetcode2/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/vay0013/leetcode2/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/vay0013/leetcode2/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vay0013/leetcode2/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
@@ -577,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vay0013/leetcode2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
