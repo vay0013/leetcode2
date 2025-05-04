@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vay0013/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vay0013/leetcode2/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/vay0013/leetcode2/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vay0013/leetcode2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vay0013/leetcode2/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/vay0013/leetcode2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vay0013/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vay0013/leetcode2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vay0013/leetcode2/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vay0013/leetcode2/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vay0013/leetcode2/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/vay0013/leetcode2/tree/master/0077-combinations) |
