@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vay0013/leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/vay0013/leetcode2/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vay0013/leetcode2/tree/master/0643-maximum-average-subarray-i) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vay0013/leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/vay0013/leetcode2/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/vay0013/leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/vay0013/leetcode2/tree/master/1603-running-sum-of-1d-array) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vay0013/leetcode2/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0523-continuous-subarray-sum) |
 | [0768-partition-labels](https://github.com/vay0013/leetcode2/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/vay0013/leetcode2/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vay0013/leetcode2/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0523-continuous-subarray-sum) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vay0013/leetcode2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/vay0013/leetcode2/tree/master/1635-number-of-good-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/vay0013/leetcode2/tree/master/2571-find-the-pivot-integer) |
