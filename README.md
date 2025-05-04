@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/vay0013/leetcode2/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vay0013/leetcode2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vay0013/leetcode2/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1542-consecutive-characters](https://github.com/vay0013/leetcode2/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vay0013/leetcode2/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/vay0013/leetcode2/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vay0013/leetcode2/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
