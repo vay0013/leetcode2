@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vay0013/leetcode2/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vay0013/leetcode2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/vay0013/leetcode2/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/vay0013/leetcode2/tree/master/0257-binary-tree-paths) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vay0013/leetcode2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vay0013/leetcode2/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/vay0013/leetcode2/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/vay0013/leetcode2/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vay0013/leetcode2/tree/master/0581-shortest-unsorted-continuous-subarray) |
