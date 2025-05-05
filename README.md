@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vay0013/leetcode2/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vay0013/leetcode2/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/vay0013/leetcode2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vay0013/leetcode2/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vay0013/leetcode2/tree/master/0073-set-matrix-zeroes) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vay0013/leetcode2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vay0013/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vay0013/leetcode2/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/vay0013/leetcode2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vay0013/leetcode2/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/vay0013/leetcode2/tree/master/0118-pascals-triangle) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vay0013/leetcode2/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/vay0013/leetcode2/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vay0013/leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
