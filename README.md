@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vay0013/leetcode2/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vay0013/leetcode2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vay0013/leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vay0013/leetcode2/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vay0013/leetcode2/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vay0013/leetcode2/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vay0013/leetcode2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vay0013/leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vay0013/leetcode2/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vay0013/leetcode2/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vay0013/leetcode2/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vay0013/leetcode2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vay0013/leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vay0013/leetcode2/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vay0013/leetcode2/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
