@@ -14,27 +14,24 @@
  * }
  */
 class Solution {
-    public boolean isSameTree(TreeNode t1, TreeNode t2) {
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(t1);
-        q.add(t2);
-        while (!q.isEmpty()) {
-            TreeNode node1 = q.poll();
-            TreeNode node2 = q.poll();
-            if (node1 == null && node2 == null) {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        Queue<TreeNode> qu = new LinkedList<>();
+        qu.add(p);
+        qu.add(q);
+        while (!qu.isEmpty()) {
+            TreeNode n1 = qu.poll();
+            TreeNode n2 = qu.poll();
+            if (n1 == null && n2 == null) {
                 continue;
             }
-            if (node1 == null || node2 == null) {
-                return false; 
-            }
-            if (node1.val != node2.val) {
+            if (n1 == null || n2 == null || n1.val != n2.val) {
                 return false;
             }
-            q.add(node1.left);
-            q.add(node2.left);
-            q.add(node1.right);
-            q.add(node2.right);
-        }
+            qu.add(n1.left);
+            qu.add(n2.left);
+            qu.add(n1.right);
+            qu.add(n2.right);
+        }  
         return true;
     }
 }
