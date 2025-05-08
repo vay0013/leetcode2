@@ -1,16 +1,15 @@
 class Solution {
     public int calculate(String s) {
-        int last = 0, cur = 0, result = 0;
+        int res = 0, last = 0, cur = 0;
         char sign = '+';
-        int len = s.length();
-        for (int i = 0; i < len; i++) {
+        for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (Character.isDigit(c)) {
                 cur = (cur * 10) + (c - '0');
             }
-            if (!Character.isDigit(c) && !Character.isWhitespace(c) || i == len-1) {
+            if (!Character.isDigit(c) && !Character.isWhitespace(c) || i == s.length()-1) {
                 if (sign == '+' || sign == '-') {
-                    result += last;
+                    res += last;
                     last = sign == '+' ? cur : -cur;
                 } else if (sign == '*') {
                     last *= cur;
@@ -21,7 +20,6 @@ class Solution {
                 cur = 0;
             }
         }
-        result += last;
-        return result;
+        return res + last;
     }
 }
