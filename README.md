@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vay0013/leetcode2/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vay0013/leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vay0013/leetcode2/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/vay0013/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/vay0013/leetcode2/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vay0013/leetcode2/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vay0013/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vay0013/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Line Sweep
 |  |
