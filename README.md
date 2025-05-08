@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vay0013/leetcode2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vay0013/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vay0013/leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vay0013/leetcode2/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vay0013/leetcode2/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vay0013/leetcode2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vay0013/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/vay0013/leetcode2/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vay0013/leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vay0013/leetcode2/tree/master/0085-maximal-rectangle) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/vay0013/leetcode2/tree/master/0234-palindrome-linked-list) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vay0013/leetcode2/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vay0013/leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vay0013/leetcode2/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vay0013/leetcode2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/vay0013/leetcode2/tree/master/0739-daily-temperatures) |
