@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vay0013/leetcode2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/vay0013/leetcode2/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/vay0013/leetcode2/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vay0013/leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vay0013/leetcode2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/vay0013/leetcode2/tree/master/2470-removing-stars-from-a-string) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vay0013/leetcode2/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vay0013/leetcode2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/vay0013/leetcode2/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vay0013/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
+| [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
@@ -671,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vay0013/leetcode2/tree/master/0062-unique-paths) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
