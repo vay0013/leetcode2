@@ -18,6 +18,9 @@ class Solution {
                 }
             }
         }
+        // 1 2 3
+        // - 0 0
+        // - 1 2
         return dp[col-1];
     }
 }
