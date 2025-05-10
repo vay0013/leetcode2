@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vay0013/leetcode2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vay0013/leetcode2/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/vay0013/leetcode2/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/vay0013/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vay0013/leetcode2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vay0013/leetcode2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vay0013/leetcode2/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vay0013/leetcode2/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/vay0013/leetcode2/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/vay0013/leetcode2/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vay0013/leetcode2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vay0013/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vay0013/leetcode2/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/vay0013/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vay0013/leetcode2/tree/master/0085-maximal-rectangle) |
