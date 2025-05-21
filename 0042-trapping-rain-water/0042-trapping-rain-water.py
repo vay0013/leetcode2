@@ -1,17 +1,13 @@
 class Solution:
     def trap(self, h: List[int]) -> int:
-        left = 0
-        leftMax = h[left]
-        right = len(h) - 1
-        rightMax = h[right]
-        result = 0
-        while left < right:
-            if h[left] < h[right]:
-                left += 1
-                leftMax = max(leftMax, h[left])
-                result += leftMax - h[left]
-            else:
-                right -= 1
-                rightMax = max(rightMax, h[right])
-                result += rightMax - h[right]
-        return result
+        stack = []
+        res = 0
+        for i in range(len(h)):
+            while stack and h[stack[-1]] < h[i]:
+                cur = stack.pop()
+                if not stack:
+                    break
+                prev = stack[-1]
+                res += (min(h[i], h[prev]) - h[cur]) * (i - prev - 1)
+            stack.append(i)
+        return res
