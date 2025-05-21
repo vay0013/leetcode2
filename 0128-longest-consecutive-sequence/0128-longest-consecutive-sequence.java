@@ -6,11 +6,13 @@ class Solution {
         }
         int res = 0;
         for (int num : set) {
-            int count = 1;
-            while (set.contains(num + count)) {
-                count++;
+            if (!set.contains(num - 1)) {
+                int count = 1;
+                while (set.contains(num + count)) {
+                    count++;
+                }
+                res = Math.max(res, count);
             }
-            res = Math.max(res, count);
         }
         return res;
     }
