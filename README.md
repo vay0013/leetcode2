@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vay0013/leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vay0013/leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vay0013/leetcode2/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vay0013/leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vay0013/leetcode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vay0013/leetcode2/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vay0013/leetcode2/tree/master/0169-majority-element) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vay0013/leetcode2/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vay0013/leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vay0013/leetcode2/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vay0013/leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/vay0013/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/vay0013/leetcode2/tree/master/0234-palindrome-linked-list) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vay0013/leetcode2/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/vay0013/leetcode2/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vay0013/leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vay0013/leetcode2/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vay0013/leetcode2/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
