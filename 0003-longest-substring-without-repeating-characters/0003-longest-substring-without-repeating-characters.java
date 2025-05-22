@@ -3,14 +3,13 @@ class Solution {
         Set<Character> set = new HashSet<>();
         int start = 0;
         int res = 0;
-        for (int end = 0; end < s.length(); end++) {
-            char c = s.charAt(end);
+        for (int i = 0; i < s.length(); ++i) {
+            char c = s.charAt(i);
             while (set.contains(c)) {
-                set.remove(s.charAt(start));
-                start++;
+                set.remove(s.charAt(start++));
             }
             set.add(c);
-            res = Math.max(res, end - start + 1);
+            res = Math.max(res, set.size());
         }
         return res;
     }
