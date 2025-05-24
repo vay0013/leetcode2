@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vay0013/leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/vay0013/leetcode2/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/vay0013/leetcode2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vay0013/leetcode2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vay0013/leetcode2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/vay0013/leetcode2/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0523-continuous-subarray-sum) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vay0013/leetcode2/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/vay0013/leetcode2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/vay0013/leetcode2/tree/master/1635-number-of-good-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/vay0013/leetcode2/tree/master/2571-find-the-pivot-integer) |
 | [3321-type-of-triangle](https://github.com/vay0013/leetcode2/tree/master/3321-type-of-triangle) |
