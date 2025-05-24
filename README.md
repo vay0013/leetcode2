@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/vay0013/leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vay0013/leetcode2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/vay0013/leetcode2/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/vay0013/leetcode2/tree/master/3321-type-of-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/vay0013/leetcode2/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/vay0013/leetcode2/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/vay0013/leetcode2/tree/master/2580-circular-sentence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vay0013/leetcode2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/vay0013/leetcode2/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/vay0013/leetcode2/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
