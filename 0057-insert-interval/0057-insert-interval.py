@@ -2,7 +2,7 @@ class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         if not intervals:
             return [newInterval]
-        left, right = 0, len(intervals)
+        left, right = 0, len(intervals)-1
 
         while left <= right:
             mid = left + (right - left) // 2
