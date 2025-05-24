@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vay0013/leetcode2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/vay0013/leetcode2/tree/master/3194-find-words-containing-character) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vay0013/leetcode2/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/vay0013/leetcode2/tree/master/3321-type-of-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/vay0013/leetcode2/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vay0013/leetcode2/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vay0013/leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/vay0013/leetcode2/tree/master/1755-defuse-the-bomb) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vay0013/leetcode2/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
