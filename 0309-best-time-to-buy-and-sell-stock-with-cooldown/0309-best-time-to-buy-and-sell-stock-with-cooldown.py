@@ -5,9 +5,9 @@ class Solution:
         cooldown = 0
         for price in prices:
             next_buy = max(buy, cooldown - price)
-            next_sell = buy + price
+            next_sell = max(sell, buy + price)
             cooldown = max(sell, cooldown)
-
+            
             sell = next_sell
             buy = next_buy
         return max(sell, cooldown)
