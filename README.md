@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vay0013/leetcode2/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/vay0013/leetcode2/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/vay0013/leetcode2/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vay0013/leetcode2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/vay0013/leetcode2/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vay0013/leetcode2/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vay0013/leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vay0013/leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/vay0013/leetcode2/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vay0013/leetcode2/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vay0013/leetcode2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/vay0013/leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vay0013/leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vay0013/leetcode2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vay0013/leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vay0013/leetcode2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vay0013/leetcode2/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vay0013/leetcode2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/vay0013/leetcode2/tree/master/0768-partition-labels) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/vay0013/leetcode2/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vay0013/leetcode2/tree/master/1988-minimize-maximum-pair-sum-in-array) |
