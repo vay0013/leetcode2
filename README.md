@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/vay0013/leetcode2/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vay0013/leetcode2/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/vay0013/leetcode2/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vay0013/leetcode2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vay0013/leetcode2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/vay0013/leetcode2/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vay0013/leetcode2/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vay0013/leetcode2/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/vay0013/leetcode2/tree/master/1046-max-consecutive-ones-iii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/vay0013/leetcode2/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/vay0013/leetcode2/tree/master/1603-running-sum-of-1d-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/vay0013/leetcode2/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1833-find-the-highest-altitude](https://github.com/vay0013/leetcode2/tree/master/1833-find-the-highest-altitude) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vay0013/leetcode2/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/vay0013/leetcode2/tree/master/0800-letter-case-permutation) |
+| [1435-xor-queries-of-a-subarray](https://github.com/vay0013/leetcode2/tree/master/1435-xor-queries-of-a-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vay0013/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
