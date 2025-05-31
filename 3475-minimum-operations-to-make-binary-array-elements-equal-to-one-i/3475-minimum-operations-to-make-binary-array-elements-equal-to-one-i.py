@@ -7,6 +7,6 @@ class Solution:
                 nums[i - 1] ^= 1
                 nums[i] ^= 1
                 res += 1
-        if len(nums) == sum(nums):
+        if sum(nums) == len(nums):
             return res
         return -1
