@@ -6,7 +6,7 @@ class Solution {
             if (x - arr[mid] > arr[mid + k] - x) {
                 left = mid + 1;
             } else {
-                right = mid - 1;
+                right = mid;
             }
         }
         List<Integer> res = new ArrayList<>();
