@@ -2,12 +2,12 @@ class Solution {
     public int maxPower(String s) {
         int res = 0;
         int start = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(start) != s.charAt(i)) {
-                start = i;
+        for (int end = 0; end < s.length(); end++) {
+            if (s.charAt(end) != s.charAt(start)) {
+                start = end;
             }
-            res = Math.max(res, i - start);
+            res = Math.max(end - start + 1, res);
         }
-        return res+1;
+        return res;
     }
 }
