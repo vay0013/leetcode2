@@ -1,16 +1,12 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int len = needle.length();
-        int n = haystack.length();
-        if (len > n) {
-            return -1;
-        }
-        for (int i = 0; i < n - len + 1; i++) {
+        for (int i = 0; i < haystack.length() - needle.length()+1; i++) {
             int p = 0;
-            while (p < len && haystack.charAt(i+p) == needle.charAt(p)) {
+            while (p < needle.length() && 
+            haystack.charAt(i+p) == needle.charAt(p)) {
                 p++;
             }
-            if (p == len) {
+            if (p == needle.length()) {
                 return i;
             }
         }
