@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vay0013/leetcode2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vay0013/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vay0013/leetcode2/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vay0013/leetcode2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vay0013/leetcode2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vay0013/leetcode2/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/vay0013/leetcode2/tree/master/0189-rotate-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vay0013/leetcode2/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vay0013/leetcode2/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/vay0013/leetcode2/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/vay0013/leetcode2/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/vay0013/leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/vay0013/leetcode2/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vay0013/leetcode2/tree/master/0344-reverse-string) |
