@@ -16,7 +16,7 @@ class Solution:
             if l2:
                 ans += l2.val
                 l2 = l2.next
-            cur.next = ListNode(ans % 10)
+            cur.next = ListNode(ans%10)
             cur = cur.next
-            extra = ans // 10
+            extra = ans//10
         return dummy.next
