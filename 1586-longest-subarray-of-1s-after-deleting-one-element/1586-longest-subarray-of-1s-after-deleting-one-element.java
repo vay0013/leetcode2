@@ -3,8 +3,8 @@ class Solution {
         int res = 0;
         int skip = 0;
         int start = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == 0) {
+        for (int end = 0; end < nums.length; end++) {
+            if (nums[end] == 0) {
                 skip++;
             }
             while (skip > 1) {
@@ -13,7 +13,7 @@ class Solution {
                 }
                 start++;
             }
-            res = Math.max(res, i - start);
+            res = Math.max(res, end - start);
         }
         return res;
     }
