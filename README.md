@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/vay0013/leetcode2/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/vay0013/leetcode2/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/vay0013/leetcode2/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vay0013/leetcode2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vay0013/leetcode2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vay0013/leetcode2/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1542-consecutive-characters](https://github.com/vay0013/leetcode2/tree/master/1542-consecutive-characters) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vay0013/leetcode2/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/vay0013/leetcode2/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vay0013/leetcode2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vay0013/leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vay0013/leetcode2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/vay0013/leetcode2/tree/master/2470-removing-stars-from-a-string) |
