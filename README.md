@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/vay0013/leetcode2/tree/master/1635-number-of-good-pairs) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/vay0013/leetcode2/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1677-matrix-diagonal-sum](https://github.com/vay0013/leetcode2/tree/master/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vay0013/leetcode2/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1755-defuse-the-bomb](https://github.com/vay0013/leetcode2/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vay0013/leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vay0013/leetcode2/tree/master/1833-find-the-highest-altitude) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vay0013/leetcode2/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vay0013/leetcode2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/vay0013/leetcode2/tree/master/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vay0013/leetcode2/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vay0013/leetcode2/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
