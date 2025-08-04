@@ -7,11 +7,11 @@
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         if not root:
-            return
+            return 
         q = deque([root])
         while q:
-            lvl_size = len(q)
-            for _ in range(lvl_size):
+            size = len(q)
+            for _ in range(size):
                 node = q.popleft()
                 node.left, node.right = node.right, node.left
                 if node.left:
