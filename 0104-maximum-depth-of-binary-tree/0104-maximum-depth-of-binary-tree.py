@@ -11,12 +11,12 @@ class Solution:
         q = deque([root])
         depth = 0
         while q:
-            lvl_size = len(q)
-            for _ in range(lvl_size):
+            size = len(q)
+            for _ in range(size):
                 node = q.popleft()
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            depth+=1
+            depth += 1
         return depth
