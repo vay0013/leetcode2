@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vay0013/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/vay0013/leetcode2/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vay0013/leetcode2/tree/master/0225-implement-stack-using-queues) |
+| [0969-number-of-recent-calls](https://github.com/vay0013/leetcode2/tree/master/0969-number-of-recent-calls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vay0013/leetcode2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Line Sweep
 |  |
@@ -744,4 +746,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/vay0013/leetcode2/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
