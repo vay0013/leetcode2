@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        stack = [(root, float("-inf"), float("inf"))]
+        stack = [(root, float('-inf'), float('inf'))]
         while stack:
             node, p, r = stack.pop()
             if not node:
