@@ -11,9 +11,9 @@ class Solution:
         res = []
         q = deque([root])
         while q:
-            lvl_size = len(q)
+            size = len(q)
             cur = []
-            for _ in range(lvl_size):
+            for _ in range(size):
                 node = q.popleft()
                 cur.append(node.val)
                 if node.left:
