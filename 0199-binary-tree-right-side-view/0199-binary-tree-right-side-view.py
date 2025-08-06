@@ -8,16 +8,16 @@ class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if not root:
             return []
-        result = []
         q = deque([root])
+        res = []
         while q:
-            lvl_size = len(q)
-            for i in range(lvl_size):
+            size = len(q)
+            for i in range(size):
                 node = q.popleft()
-                if i == lvl_size - 1:
-                    result.append(node.val)
+                if i == size - 1:
+                    res.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-        return result
+        return res
