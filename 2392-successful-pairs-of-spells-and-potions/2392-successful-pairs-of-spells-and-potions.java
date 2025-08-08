@@ -1,10 +1,11 @@
 class Solution {
     public int[] successfulPairs(int[] spells, int[] potions, long success) {
         Arrays.sort(potions);
-        int n = potions.length;
-        int[] res = new int[spells.length];
-        for (int i = 0; i < spells.length; i++) {
-            int left = 0, right = n - 1;
+        int n = spells.length;
+        int[] res = new int[n];
+        for (int i = 0; i < n; i++) {
+            int left = 0;
+            int right = potions.length-1;
             while (left <= right) {
                 int mid = left + (right - left) / 2;
                 long product = (long) potions[mid] * spells[i];
@@ -14,7 +15,7 @@ class Solution {
                     left = mid + 1;
                 }
             }
-            res[i] = n - left;
+            res[i] = potions.length-left;
         }
         return res;
     }
