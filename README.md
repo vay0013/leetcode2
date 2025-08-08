@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/vay0013/leetcode2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vay0013/leetcode2/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/vay0013/leetcode2/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/vay0013/leetcode2/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vay0013/leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vay0013/leetcode2/tree/master/0792-binary-search) |
@@ -757,4 +758,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vay0013/leetcode2/tree/master/0969-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vay0013/leetcode2/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
