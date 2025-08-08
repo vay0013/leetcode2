@@ -15,35 +15,32 @@
  */
 class Solution {
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-        List<Integer> p1 = bfs(root1);
-        List<Integer> p2 = bfs(root2);
-        if (p1.size() != p2.size()) {
+        List<Integer> r1 = dfs(root1);
+        List<Integer> r2 = dfs(root2);
+        if (r1.size() != r2.size()) {
             return false;
         }
-        for (int i = 0; i < p1.size(); i++) {
-            if (!p1.get(i).equals(p2.get(i))) {
+        for (int i = 0; i < r1.size(); i++) {
+            if (!r1.get(i).equals(r2.get(i))) {
                 return false;
             }
         }
         return true;
     }
-    private List<Integer> bfs(TreeNode root) {
-        List<Integer> res = new ArrayList<>();
-        if (root == null) {
-            return res;
-        }
+    private List<Integer> dfs(TreeNode root) {
         Stack<TreeNode> stack = new Stack<>();
-        stack.add(root);
+        List<Integer> res = new ArrayList<>();
+        stack.push(root);
         while (!stack.isEmpty()) {
             TreeNode node = stack.pop();
             if (node.left == null && node.right == null) {
                 res.add(node.val);
             }
             if (node.right != null) {
-                stack.add(node.right);
+                stack.push(node.right);
             }
             if (node.left != null) {
-                stack.add(node.left);
+                stack.push(node.left);
             }
         }
         return res;
