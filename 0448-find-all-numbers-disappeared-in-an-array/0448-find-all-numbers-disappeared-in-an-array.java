@@ -3,17 +3,17 @@ class Solution {
         int i = 0;
         while (i < nums.length) {
             int pos = nums[i] - 1;
-            if (nums[i] != nums[pos]) {
-                int tmp = nums[i];
-                nums[i] = nums[pos];
-                nums[pos] = tmp;
+            if (nums[pos] != nums[i]) {
+                int tmp = nums[pos];
+                nums[pos] = nums[i];
+                nums[i] = tmp;
             } else {
                 i++;
             }
         }
         List<Integer> res = new ArrayList<>();
         for (int j = 0; j < nums.length; j++) {
-            if (nums[j] - 1 != j) {
+            if (nums[j] != j+1) {
                 res.add(j+1);
             }
         }
