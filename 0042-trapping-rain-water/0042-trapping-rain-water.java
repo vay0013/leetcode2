@@ -1,17 +1,15 @@
 class Solution {
     public int trap(int[] h) {
-        int n = h.length;
-        int res = 0;
         Stack<Integer> stack = new Stack<>();
-        for (int i = 0; i < n; i++) {
-            int wall = h[i];
+        int res = 0;
+        for (int i = 0; i < h.length; i++) {
             while (!stack.isEmpty() && h[stack.peek()] < h[i]) {
-                int cur = stack.pop();
+                int mid = stack.pop();
                 if (stack.isEmpty()) {
-                    break;
+                    continue;
                 }
-                int left = stack.peek();
-                res += (Math.min(h[left], h[i]) - h[cur]) * (i - 1 - left);
+                int prev = stack.peek();
+                res += (i - prev - 1) * (Math.min(h[i], h[prev]) - h[mid]);
             }
             stack.push(i);
         }
