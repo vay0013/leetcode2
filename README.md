@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vay0013/leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vay0013/leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/vay0013/leetcode2/tree/master/0652-find-duplicate-subtrees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/vay0013/leetcode2/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vay0013/leetcode2/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vay0013/leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vay0013/leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/vay0013/leetcode2/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/vay0013/leetcode2/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/vay0013/leetcode2/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/vay0013/leetcode2/tree/master/0871-keys-and-rooms) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vay0013/leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vay0013/leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vay0013/leetcode2/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/vay0013/leetcode2/tree/master/0652-find-duplicate-subtrees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vay0013/leetcode2/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/vay0013/leetcode2/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vay0013/leetcode2/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vay0013/leetcode2/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vay0013/leetcode2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vay0013/leetcode2/tree/master/0567-permutation-in-string) |
+| [0652-find-duplicate-subtrees](https://github.com/vay0013/leetcode2/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/vay0013/leetcode2/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/vay0013/leetcode2/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/vay0013/leetcode2/tree/master/0940-fruit-into-baskets) |
