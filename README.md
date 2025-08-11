@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/vay0013/leetcode2/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vay0013/leetcode2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vay0013/leetcode2/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2352-design-an-atm-machine](https://github.com/vay0013/leetcode2/tree/master/2352-design-an-atm-machine) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vay0013/leetcode2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vay0013/leetcode2/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vay0013/leetcode2/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/vay0013/leetcode2/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vay0013/leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vay0013/leetcode2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2352-design-an-atm-machine](https://github.com/vay0013/leetcode2/tree/master/2352-design-an-atm-machine) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vay0013/leetcode2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Design
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vay0013/leetcode2/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/vay0013/leetcode2/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vay0013/leetcode2/tree/master/0969-number-of-recent-calls) |
+| [2352-design-an-atm-machine](https://github.com/vay0013/leetcode2/tree/master/2352-design-an-atm-machine) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vay0013/leetcode2/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
